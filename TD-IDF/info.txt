@@ -1,0 +1,6 @@
+term frequency (TF)
+inverse document frequency (IDF)
+
+
+tf = number of times term t appears in a document / total number of terms in the document
+idf = log(total number of documents / number of documents with term t in it)
